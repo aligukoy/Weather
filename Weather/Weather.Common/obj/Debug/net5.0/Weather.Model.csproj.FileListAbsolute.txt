@@ -1,0 +1,12 @@
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\Weather.Common\bin\Debug\net5.0\Weather.Model.deps.json
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\Weather.Common\bin\Debug\net5.0\Weather.Model.dll
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\Weather.Common\bin\Debug\net5.0\ref\Weather.Model.dll
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\Weather.Common\bin\Debug\net5.0\Weather.Model.pdb
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\Weather.Common\obj\Debug\net5.0\Weather.Model.csprojAssemblyReference.cache
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\Weather.Common\obj\Debug\net5.0\Weather.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\Weather.Common\obj\Debug\net5.0\Weather.Model.AssemblyInfoInputs.cache
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\Weather.Common\obj\Debug\net5.0\Weather.Model.AssemblyInfo.cs
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\Weather.Common\obj\Debug\net5.0\Weather.Model.csproj.CoreCompileInputs.cache
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\Weather.Common\obj\Debug\net5.0\Weather.Model.dll
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\Weather.Common\obj\Debug\net5.0\ref\Weather.Model.dll
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\Weather.Common\obj\Debug\net5.0\Weather.Model.pdb

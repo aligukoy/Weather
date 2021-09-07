@@ -1,0 +1,40 @@
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\WeatherConsole.exe
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\WeatherConsole.deps.json
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\WeatherConsole.runtimeconfig.json
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\WeatherConsole.runtimeconfig.dev.json
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\WeatherConsole.dll
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\ref\WeatherConsole.dll
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\WeatherConsole.pdb
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.csprojAssemblyReference.cache
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.AssemblyInfoInputs.cache
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.AssemblyInfo.cs
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.csproj.CoreCompileInputs.cache
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.dll
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\ref\WeatherConsole.dll
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.pdb
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.genruntimeconfig.cache
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.csproj.CopyComplete
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\Weather.Model.dll
+C:\Users\Gerald\Desktop\ASPNETCore-WebAPI-Sample-main\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\Weather.Model.pdb
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\WeatherConsole.exe
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\WeatherConsole.deps.json
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\WeatherConsole.runtimeconfig.json
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\WeatherConsole.runtimeconfig.dev.json
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\WeatherConsole.dll
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\ref\WeatherConsole.dll
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\WeatherConsole.pdb
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\Weather.Model.dll
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\bin\Debug\net5.0\Weather.Model.pdb
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.csprojAssemblyReference.cache
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.AssemblyInfoInputs.cache
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.AssemblyInfo.cs
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.csproj.CoreCompileInputs.cache
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.csproj.CopyComplete
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.dll
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\ref\WeatherConsole.dll
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.pdb
+C:\Users\Gerald\Desktop\GeraldGonzales Test\WeatherConsole\WeatherConsole\WeatherConsole\obj\Debug\net5.0\WeatherConsole.genruntimeconfig.cache
