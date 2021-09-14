@@ -18,6 +18,8 @@ namespace WeatherAPI
             {
                 options.SwaggerDoc(description.GroupName, CreateInfoForApiVersion(description));
             }
+
+           
         }
 
         static OpenApiInfo CreateInfoForApiVersion(ApiVersionDescription description)

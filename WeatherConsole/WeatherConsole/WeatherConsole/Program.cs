@@ -1,8 +1,12 @@
 ﻿using Newtonsoft.Json;
 using System;
+using System.IO;
 using System.Net.Http;
+using System.Reflection;
 using System.Threading.Tasks;
 using Weather.Model.Models;
+using System.Linq;
+using System.Media;
 
 namespace WeatherConsole
 {
@@ -28,20 +32,20 @@ namespace WeatherConsole
                 var weatherReport = await GetWeather(zip);
                 Console.WriteLine(weatherReport);
 
-                Console.WriteLine("\nAnother One?: Y/N");
+                Console.WriteLine("Another One?: Y/N");
 
             } while (string.Equals(Console.ReadLine(), "Y", StringComparison.CurrentCultureIgnoreCase));
 
-            Console.WriteLine("DONT open this url: https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab");
-            Console.ReadLine();
+            
+             Console.WriteLine("Want the good stuff (Y/N)?");
+            var yes = string.Equals(Console.ReadLine(), "Y", StringComparison.CurrentCultureIgnoreCase);
+            if (yes)
+                GetGoodStuff();
 
         }
 
         public async static Task<string> GetWeather(string zipCode)
         {
-
-       
-
             string weatherResponse = "";
             try
             {
@@ -82,6 +86,52 @@ namespace WeatherConsole
             {
                 return "Something went wrong, make sure API is running";
             }
+        }
+
+        public static void GetGoodStuff()
+        {
+
+            var assembly = Assembly.GetExecutingAssembly();
+            var resourceName = "rr.txt";
+            
+            string r = assembly.GetManifestResourceNames().Single(x => x.EndsWith(resourceName));
+
+
+            string rr;
+
+            using (Stream stream = assembly.GetManifestResourceStream(r))
+            {
+                using (var reader = new StreamReader(stream))
+                {
+                    rr= reader.ReadToEnd();
+                }
+            }
+           
+            
+
+            using (StringReader reader = new StringReader(rr))
+            {
+                string line = string.Empty;
+                do
+                {
+                    line = reader.ReadLine();
+                    if (line != null)
+                    {
+                        Console.SetCursorPosition((Console.WindowWidth - line.Length) / 2, Console.CursorTop);
+                        Console.WriteLine(line);
+                    }
+                } while (line != null);
+            }
+
+
+            var rrLocation = Directory.GetFiles(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location));
+
+            SoundPlayer player = new SoundPlayer();
+            string rrsound = rrLocation.Single(x =>x.EndsWith("rr.wav"));
+            player.SoundLocation = rrsound;
+            player.Play();
+
+            Console.ReadLine();
         }
     }
 }

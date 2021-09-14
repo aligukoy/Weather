@@ -30,7 +30,8 @@ namespace WeatherAPI.MappingProfiles
                 .ForMember(dest => dest.wind_speed, map => map.MapFrom(src => src.Current.wind_speed))
                 .ForMember(dest => dest.country, map => map.MapFrom(src => src.Location.country))
                 .ForMember(dest => dest.region, map => map.MapFrom(src => src.Location.region))
-                .ForMember(dest => dest.name, map => map.MapFrom(src => src.Location.name));
+                .ForMember(dest => dest.name, map => map.MapFrom(src => src.Location.name))
+                .ReverseMap();
 
 
         }

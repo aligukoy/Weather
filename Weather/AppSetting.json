@@ -1,0 +1,16 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "WeahterStack_API_Key": "9c332da20acd7a4040e761d0d7a548d2",
+  "WeatherStack_Url": "http://api.weatherstack.com/",
+  "User_Admin": "Never",
+  "User_Admin_Password": "GiveYouUp",
+  "Jwt_Secret":  "ConsideringGivingYouUp"
+
+
+
+}

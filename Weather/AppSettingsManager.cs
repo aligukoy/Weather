@@ -15,7 +15,7 @@ namespace WeatherAPI
         private JObject _secrets;
 
         private const string Namespace = "WeatherAPI";
-        private const string FileName = "appsettings.json";
+        private const string FileName = "AppSetting.json";
 
 
         private AppSettingsManager()

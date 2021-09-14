@@ -19,6 +19,10 @@ using WeatherAPI.MappingProfiles;
 using WeatherAPI.Repositories;
 using WeatherAPI.Services;
 using Swashbuckle.AspNetCore.SwaggerGen;
+using Microsoft.OpenApi.Models;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 namespace WeatherAPI
 {
@@ -39,6 +43,8 @@ namespace WeatherAPI
             services.AddCustomCors("AllowAllOrigins");
 
             services.AddSingleton<ISeedDataService, SeedDataService>();
+            services.AddSingleton<ISecurityService, SecurityService>();
+            services.AddSingleton<IUserService, UserService>();
             services.AddScoped<IWeatherRepository, WeatherRepository>();
             services.AddRouting(options => options.LowercaseUrls = true);
             services.AddSingleton<IActionContextAccessor, ActionContextAccessor>();
@@ -57,6 +63,10 @@ namespace WeatherAPI
             services.AddVersioning();
             services.AddTransient<IConfigureOptions<SwaggerGenOptions>, ConfigureSwaggerOptions>();
             services.AddSwaggerGen();
+
+
+
+           
 
             services.AddAutoMapper(typeof(WeatherMapping));
         }
@@ -98,6 +108,8 @@ namespace WeatherAPI
                             description.GroupName.ToUpperInvariant());
                     }
                 });
+
+            app.UseAuthentication();
         }
     }
 }

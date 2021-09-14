@@ -11,5 +11,7 @@ namespace Weather.Model.Models
     {
         public bool Errored { get; set; }
         public string ErrorMessage { get; set; }
+
+        
     }
 }
